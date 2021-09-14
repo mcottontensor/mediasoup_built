@@ -1,5 +1,5 @@
 {
-  "name": "mediasoup_win64",
+  "name": "mediasoup_built",
   "version": "3.8.4",
   "description": "Prebuilt mediasoup package",
   "main": "lib/index.js",
@@ -23,7 +23,8 @@
     "sfu",
     "nodejs",
     "mediasoup",
-    "win64"
+    "win64",
+    "linux"
   ],
   "license": "ISC"
 }
